@@ -1,0 +1,157 @@
+llh,Can the patient's left little finger bend 90 degrees backward?
+rlh,Can the patient's right little finger bend 90 degrees backward? 
+lth,Can the patient's left thumb touch their inner forearm?
+lthh,Could the patient historically touch their left thumb to their inner forearm?
+rth,Can the patient's right thumb touch their inner forearm?
+rthh,Could the patient historically touch their right thumb to their inner forearm?
+leh,Can the patient's left elbow bend 10 degrees or more backwards when extended?
+reh,Can the patient's right elbow bend 10 degrees or more backwards when extended?
+lkh,Can the patient's left knee bend 10 degrees or more forwards when extended?
+rkh,Can the patient's right knee bend 10 degrees or more forwards when extended?
+lfh,Is the patient's left foot hypermobile (has a greater range of motion)?
+rfh,Is the patient's right foot hypermobile (has a greater range of motion)? 
+tf,Can the patient place their palms flat on the floor without bending their knees? 
+htf,Could the patient historically place their palms flat on the floor without bending their knees?
+ysh,As a child, was the patient able to contort their body into strange shapes or do the splits? 
+ydh,As a child or teenager, did the patient's shoulder or kneecap dislocate on more than one occasion? 
+ydjh,Does the patient consider themself “double jointed"?
+msh,As a child, was the patient able to contort their body into strange shapes or do the splits? 
+mdh,As a child or teenager, did the patient's shoulder or kneecap dislocate on more than one occasion? 
+mdjh,Does the patient consider themself “double jointed"?
+osh,As a child, was the patient able to contort their body into strange shapes or do the splits? 
+odh,As a child or teenager, did the patient's shoulder or kneecap dislocate on more than one occasion? 
+odjh,Does the patient consider themself “double jointed"?
+
+dis,Has the patient ever experienced multiple dislocations or subluxations?
+hd,Did the patient have a congenital hip dislocation?
+hdis,Did the patient experience developmental hip dysplasia? 
+rhd,Did the patient ever experience a radial head (bone that connects to elbow) subluxation or dislocation?
+ee,Does the patient experience reduced elbow extension (when extended is the angle between the lower and upper arm less than 170 degrees)? 
+jp,Has the patient ever experienced joint pain, musculoskeletal pain, or widespread chronic pain? 
+spr,Has the patient experienced multiple sprains?
+con,Does the patient experience contractures (shortening or hardening of muscles, tendons, or other tissue leading to rigid joints)? 
+mh,Does the patient experience muscle hypotonia (muscle weakness)?
+cmh,Was the muscle hypotonia congenital and improved with age?
+ma,Does the patient experience muscle atrophy (muscle wasting)?
+mm,Does the patient have evidence of myopathy (disease causing muscle fibers to malfunction) on a muscle biopsy?
+tm,Has the patient experienced a tendon or muscle rupture?
+
+
+oste,Does the patient have osteopenia or osteoporosis (loss of bone mass)?
+hei,Does the patient have a ratio greater than 1.05 when dividing wingspan by height?
+shs,Does the patient have a short stature?
+shl,Does the patient have short limbs, hands, or feet?
+sco,Does the patient have scoliosis?
+kysc,Does the patient have kyphoscoliosis?
+dura,Does the patient have dural ectasia (widening/balloning of the dural sac which surrounds the spinal cord)?
+protu,Does the patient have protucio acetabulae (intrapelvic displacement of the medial wall of the acetabulum/hipbone socket)?
+pectc,Does the patient have pectus carinatum (chestwall protrudes outwards abnormally)?
+pecte,Does the patient have pectus excavatum (chestwall protrudes inwards abnormally)?
+radul,Does the patient have radioulnar synostosis (abnormal connection between the radius and ulna bones located in the forearm)? 
+shcla,Does the patient have short clavicles (collarbone) with broad medial ends?
+antsp,Does the patient have anterior splaying of the ribs (forefront ribs diverge away from each other)?
+smili,Does the patient have a small ilium (largest and uppermost part of hip bone)?
+pecfi,Does the patient have peculiar fingers (tapered, spatulate, broad)?
+arach,Does the patient have arachnodactyly (long, slender fingers) observed through a positive Walker-Murdoch test (the little finger and thumb overlap when gripping the fingers around the opposite wrist) or Steinberg sign (the tip of the thumb is visble in a closed fist)?
+flaf,Does the patient have a flat foot?
+hind,Does the patient have hindfoot valgus (hindfoot deviates away from the midline of the body)?
+talip,Does/did the patient have a talipes equinovarus (clubfoot)?
+halx,Does the patient have hallux vagus (bunion)?
+
+skhy,Does the patient have skin hyperextensibility (skin can be stretched over 3 cm at the knee, elbow, and neck area, over 1.5 cm at the inner forearm and back of hand area, and over 1 cm at the palm area)?
+doso,Does the patient have soft, doughy skin or skin with a velvety texture?
+trask,Does the patient have thin, translucent skin in which their veins are easily noticeable (especially in the chest area)?
+redsk,Does the patient have redundant, almost lax skin, that has an excessive amount of skin folds at the wrists and ankles?
+inpa,Does the patient have increased palmar wrinkling?
+pacur,Does the patient have a single transverse palmar curve (also known as the simian crease)?
+unstri,Does the patient have any unexplained striae (stretch marks that are not attributed to significant weight gain/loss)?
+piez,Does the patient have bilateral piezogenic papules of the heel (soft, skin colored papules due to fat herniation through the dermis, most noticeable when standing)?
+epifol,Does the patient have an epicanthal fold (a skin fold that covers the inner corner of the eye)?
+mollusc,Does the patient have any molluscoid pseudotumors (bluish gray, spongy nodules frequently observed over traumatised areas such as the shins and forearms)?
+subsph,Does the patient have any subcutaneous spheroids (small, hard, moveable, cyst-like nodules observed over bony prominences in the legs or arms)?
+preplaq,Does the patient have pretibial plaques (skin rash noticeable on the shins)?
+hypker,Does the patient have follicular hyperkeratosis (also known as keratosis pilaris/KP)?
+acrog,Does the patient have acrogeria (premature aging of the hands and feet often resulting in thin and unusually fragile skin in the affected areas)?
+skfra,Does the patient have skin fragility (skin that tears or breaks easily and takes a while to heal)?
+exfrask,Does the patient have congenital or postnatal skin tears as a result of their extreme skin fragility?
+skatrop,Does the patient have atrophic scars/indented scars in two or more locations?
+bruise,Does the patient bruise easily or have capillary fragility?
+
+promvasc,Does the patient have prominent vasculature?
+varico,Does the patient have early onset (before the age of 30) varicose veins (veins that are enlarged and swollen, often appearing dark purple or blue)?
+carval,Does the patient have any severe cardiac-valvular problems (diseases that affect the mitral valve or aortic valve)?
+mitval,Does the patient have mitral valve prolapse?
+aordil,Does the patient have aortic root dilation with a Z-score greater than +2?
+arttur,Does the patient have arterial turtuosity (elongation and twisting/distortion of arteries throughout the body)?
+ccsf,Has the patient had a carotid-cavernous sinus fistula/CCSF (an abnormal connection between an artery in your neck and the network of veins at the back of the eye) formation in the absence of trauma?
+aneur,Does the patient have any aneurysms (ballooning of a weakened artery)?
+arteria,Did the patient have an artery dissect or rupture when they were less than 40 years old?
+
+
+pericomp,Did the patient have any perinatal complications due to connective tissue fragility (born or developped shortly after birth hemorrhages, fractures, etc.)?
+viscfra,Does the patient have complications from visceral fragility (EX: bladder rupture)?
+uterrup,Has the patient experienced a uterine rupture during their third trimester of pregnancy in the absence of a previous C-section and severe peripartum perineum tears (vaginal tear)?
+prolap,Does the patient have pelvic floor, rectal, or uterine prolapses in the absence of morbid obesity or other known predisposing medical conditions?
+hernia,Does the patient suffer from multiple or recurrent hernias?
+ingher,Does the patient suffer specifically from an inguinal hernia (groin hernia)?
+umbher,Does the patient suffer specifically from an umbilical hernia (when the intestine/fatty tissue protudes through the muscle near the belly button)?
+colrup,Has the patient's sigmoid colon ruptured without an explanation?
+pneumo,Has the patient experienced a spontaneous pneumothorax (collapsed lung)?
+
+blusc,Does the patient have blue sclerae (the white of the eyes are tinted blue)?
+strabi,Does the patient have strabismus (crossed eyes)?
+refraer,Does the patient have any refractive errors including myopia, hypermetropia or astigmatism?
+myo,Does the patient have severe myopia (nearsightedness)?
+hypmet,Does the patient have severe hypermetropia (farsightedness)?
+cloucor,Does the patient have a cloudy cornea (clear tissue located at the front of the eye)?
+keratc,Does the patient have keratoconus (cornea bulges outwards in a cone shape)?
+keratg,Does the patient have keratoglobus (cornea bulges outwards in a dome shape)?
+micrco,Does the patient have a microcornea (a cornea that is less than 10 mm in diameter)?
+corth,Does the patient have a thin cornea in which the central cornea thickness is less than 400 μm?
+prostro,Does the patient have progressive loss of corneal stromal depth (loss of depth in the thickest part of the cornea)?
+corsca,Does the patient have corneal scarring?
+retdet,Has the patient had retinal detachment (the retina detaches from the blood vessels at the back of the eye)?
+lendis,Has the patient had ectopia lentis (a lens dislocation)?
+sclfra,Does the patient have scleral (white of eyes) and occular fragility or rupture?
+
+ginrec,Has the patient experienced gingival (gum) recession and fragility?
+lagin,Does the patient lack attached gingiva (gums)?
+seper,Does the patient have severe, intractable periodontitis of early onset (gum infection)?
+dencro,Does the patient have dental crowding and a high or narrow palate?
+toabn,Does the patient have any tooth abnormalities (EX: tooth discoloration or dysplastic teeth/abnormally shaped teeth)?
+bifuv,Does the patient have a bifid/split or broad uvula (the teardrop shaped flesh hanging in the back of the mouth)?
+
+triafa,Does the patient have a triangular shaped face?
+lonfa,Does the patient have dolichocephaly (a disproportionately long and narrow face)?
+facass,Does the patient have facial assymetry?
+retrogn,Does the patient have retrognathia (recession of jaw)?
+malahyp,Does the patient have malar hypoplasia (underdeveloped cheekbones)?
+font,Did the patient have a large fontanelle (space between bones in an infants head)?
+loear,Does the patient have low set ears?
+protey,Does the patient have protuberant eyes?
+receye,Does the patient have enophthalmos (recession of the eyeballs)?
+pufeye,Does the patient have edematous/puffy eyelids?
+palpfis,Does the patient have downslanting palbebral fissures (area between the eyelids slants downwards)?
+hyptel,Does the patient have hypertelorism (widely spaced eyes)?
+smamou,Does the patient have a small/narrow mouth?
+thlip,Does the patient have thin lips?
+
+demot,Did the patient have delayed motor development (delayed rolling, crawling, walking, etc.)?
+decog,Does the patient have delayed cognitive development (learning and communicating difficulties)?
+groreta,Did the patient experience postnatal growth retardation?
+
+famcla,Does the patient have a positive family history of Classical Ehlers-Danlos Syndrome (cEDS)?
+famhyp,Does the patient have a positive family history of Hypermobile Ehlers-Danlos Syndrome (hEDS)?
+famvasc,Does the patient have a positive family history of Vascular Ehlers-Danlos Syndrome (vEDS)?
+fammar,Does the patient have a family history of Marfan Syndrome?
+genmar,Does the patient possess a a pathogenic mutation in their FBN1 gene that is associated with aortic root dilation?
+autorec,Does the patient have a family history compatible with autosomal recessive transmission?
+
+hirs,Does the patient have hirsutism (excessive hair growth)?
+hearim,Does the patient have a hearing impairment?
+blad,Does the patient have bladder diverticula (bladder lining pokes through bladder wall creating a pouch)?
+lunhyp,Does the patient have lung hypoplasia (incomplete development of lungs)?
+ratinf,Does the patient experience a greater number of infections than the normal population?
+
+
+
