@@ -140,7 +140,7 @@
 
 10,famcla,6,1
 10,famhyp,19,1
-10,famvasc,16,1
+10,famvasc,73,1
 10,fammar,69,1
 10,genmar,70,1
 10,autorec,9,1,11,1
