@@ -182,9 +182,9 @@ def intro():
     if skip_intro.lower() == 'no':
         print('HCTDS are disorders and syndromes that affect the connective tissue in your body. Examples of connective tissue include skin, joints, muscles, and blood vessels.')
         time.sleep(5)
-        print('DOTS specifically tests for the 23 most common and relatively misdiagnosed conditions in an attempt to help patients determine their likely diagnosis in a shorter period of time and with greater ease.')
+        print('DOTS specifically tests for the 22 most common and relatively misdiagnosed conditions in an attempt to help patients determine their likely diagnosis in a shorter period of time and with greater ease.')
         time.sleep(4)
-        print('These 23 conditions include Marfan Syndrome, Loeys-Diets Syndrome, the Ehlers-Danlos Syndromes, and the Hypermobility Spectrum Disorders.')
+        print('These 22 conditions include Marfan Syndrome, Loeys-Diets Syndrome, the Ehlers-Danlos Syndromes, and the Hypermobility Spectrum Disorders.')
         time.sleep(4)
         print('DOTS will ask you a series of questions about your symptoms to get a better idea of your health and which connective tissue disorder best matches your symptoms. Please answer as honestly as possible to get the most accurate results.')
         time.sleep(6)
