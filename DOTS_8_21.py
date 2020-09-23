@@ -404,7 +404,7 @@ def requirements(variables, age):
         print('Based on your answers, the patient meets the minimal clinical criteria for Myopathic Ehlers-Danlos Syndrome. We recommend gene specific testing specifically targeted at the COL12A1 gene.')
         variables[41] = variables[41] + 1
 
-    if variables[47] == 1 and major2_pEDS >= 2 and variables[49] >= 0.4 or variables[47] == 2 and major2_pEDS >= 1 and variables[49] >= 0.4 or variables[0] >= 0.44 and variables[47] == 2 and major2_pEDS >= 1 or variables[0] >= 0.44 and variables[47] == 1 and variables[48] >= 2:
+    if variables[47] == 1 and variables[48] >= 2 and variables[49] >= 0.4 or variables[47] == 2 and variables[48] >= 1 and variables[49] >= 0.4 or variables[0] >= 0.44 and variables[47] == 2 and variables[48] >= 1 or variables[0] >= 0.44 and variables[47] == 1 and variables[48] >= 2:
         print('Based on your answers, the patient meets the minimal clinical criteria for Periodontal Ehlers-Danlos Syndrome. We recommend gene specific testing specifically targeted at the C1R and C1S gene.')
         variables[46] = variables[46] + 1
 
