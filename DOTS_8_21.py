@@ -38,7 +38,6 @@ minor_cvEDS = 0 # 13
 vEDS = 0 # 14
 true_major_vEDS = 0 # 15
 major_vEDS = 0 # 16
-fam_vEDS = 0 # 73
 
 # Variables for Hypermobile EDS
 hEDS = 0 # 17
@@ -377,7 +376,7 @@ def requirements(variables, age):
         print('Based on your answers, the patient meets the minimal clinical criteria for Cardiac valvular Ehlers-Danlos Syndrome. We recommend gene specific testing specifically targeted at the COL1A2 gene.')
         variables[10] = variables[10] + 1
 
-    if variables[15] >= 1 or variables[16] >= 5.99 or variables[0] >= 0.44  and variables[16] >= 4.99 or variables[73] == 1 and variables[16] >= 0.99 or variables[73] == 1 and variables[0] >= 0.44:
+    if variables[15] >= 1 or variables[16] >= 5.99 or variables[0] >= 0.44  and variables[16] >= 4.99:
         print('Based on your answers, the patient meets the minimal clinical criteria for Vascular Ehlers-Danlos Syndrome. We recommend gene specific testing specifically targeted at the COL3A1 and COL1A1 gene.')
         variables[14] = variables[14] + 1
 
