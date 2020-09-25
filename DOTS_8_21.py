@@ -342,7 +342,7 @@ def get_symptoms(filename, questions_dict, systems):
             if line != "":
                 row = line.split(",")
 
-                if int(row[0]) == 11 and not ('yes' in systems[1:] or 'idk' in systems[1:]):
+                if int(row[0]) == 11 and not ('yes' in systems[1:] or int(row[0]) == 11 and 'idk' in systems[1:]):
                     continue
                 if int(row[0]) == 11 or (int(row[0]) < 0 and systems[int(row[1])] == 'yes') or (int(row[0]) >=0 and systems[int(row[0])] == 'yes'):
                     #Special Cases
