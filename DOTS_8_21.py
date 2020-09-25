@@ -317,7 +317,7 @@ def special_cases(row, questions_dict, mc_eds_check, mc_eds_code, prev_answer):
         mc_eds_check = True
         mc_eds_code = 1   
         row = row[1:]
-    if int(row[0]) == 11 and ('yes' in systems[1:] or 'idk' in systems[1:]):
+    if int(row[0]) == 11 and ('yes' in systems[1:] or int(row[0]) == 11 and 'idk' in systems[1:]):
         answer = ask_question(questions_dict[row[1]])
     elif should_ask_question == True:
         answer = ask_question(questions_dict[row[1]])
@@ -344,7 +344,7 @@ def get_symptoms(filename, questions_dict, systems):
 
                 if int(row[0]) == 11 and not ('yes' in systems[1:] or int(row[0]) == 11 and 'idk' in systems[1:]):
                     continue
-                if int(row[0]) == 11 or (int(row[0]) < 0 and systems[int(row[1])] == 'yes') or (int(row[0]) >=0 and systems[int(row[0])] == 'yes'):
+                if int(row[0]) == 11 or (int(row[0]) < 0 and systems[int(row[1])] == 'yes') or (int(row[0]) >=0 and systems[int(row[0])] == 'yes') or (int(row[0]) < 0 and systems[int(row[1])] == 'idk') or (int(row[0]) >=0 and systems[int(row[0])] == 'idk'):
                     #Special Cases
                     answer, row, mc_eds_check, mc_eds_code = special_cases(row, questions_dict, mc_eds_check, mc_eds_code, prev_answer)
                     if answer == 'yes':
